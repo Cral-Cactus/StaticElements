@@ -1,0 +1,8 @@
+D:\aaa\testt\StaticElements\Geometry\bin\Debug\Geometry.exe.config
+D:\aaa\testt\StaticElements\Geometry\bin\Debug\Geometry.exe
+D:\aaa\testt\StaticElements\Geometry\bin\Debug\Geometry.pdb
+D:\aaa\testt\StaticElements\Geometry\obj\Debug\Geometry.csproj.AssemblyReference.cache
+D:\aaa\testt\StaticElements\Geometry\obj\Debug\Geometry.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\StaticElements\Geometry\obj\Debug\Geometry.csproj.CoreCompileInputs.cache
+D:\aaa\testt\StaticElements\Geometry\obj\Debug\Geometry.exe
+D:\aaa\testt\StaticElements\Geometry\obj\Debug\Geometry.pdb

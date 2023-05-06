@@ -1,0 +1,8 @@
+D:\aaa\testt\StaticElements\Person\bin\Debug\Person.exe.config
+D:\aaa\testt\StaticElements\Person\bin\Debug\Person.exe
+D:\aaa\testt\StaticElements\Person\bin\Debug\Person.pdb
+D:\aaa\testt\StaticElements\Person\obj\Debug\Person.csproj.AssemblyReference.cache
+D:\aaa\testt\StaticElements\Person\obj\Debug\Person.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\StaticElements\Person\obj\Debug\Person.csproj.CoreCompileInputs.cache
+D:\aaa\testt\StaticElements\Person\obj\Debug\Person.exe
+D:\aaa\testt\StaticElements\Person\obj\Debug\Person.pdb

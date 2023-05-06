@@ -1,0 +1,8 @@
+D:\aaa\testt\StaticElements\Root\bin\Debug\Root.exe.config
+D:\aaa\testt\StaticElements\Root\bin\Debug\Root.exe
+D:\aaa\testt\StaticElements\Root\bin\Debug\Root.pdb
+D:\aaa\testt\StaticElements\Root\obj\Debug\Root.csproj.AssemblyReference.cache
+D:\aaa\testt\StaticElements\Root\obj\Debug\Root.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\StaticElements\Root\obj\Debug\Root.csproj.CoreCompileInputs.cache
+D:\aaa\testt\StaticElements\Root\obj\Debug\Root.exe
+D:\aaa\testt\StaticElements\Root\obj\Debug\Root.pdb
